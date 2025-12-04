@@ -1,0 +1,1 @@
+Hello, I am a sample file for the sample repository. I want to check the word count. Along with ths, I also want to check the Unique count. This is just a simple simple simple text file. I want to check the word count and all. So I am writing this text file. Hello, I am a sample file for the sample repository. I want to check the word count.
