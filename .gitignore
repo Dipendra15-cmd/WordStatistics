@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+env/
+venv/
+*.env
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: ignore IDE files (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
