@@ -26,3 +26,6 @@ python word_statistics.py sample_file.txt
 
 ### Requirements
 No dependencies for external packages.
+
+### Declaration
+I hereby declare this code is my own and I haven't used AI in any way while coding this.
